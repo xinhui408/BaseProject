@@ -1,6 +1,6 @@
 # Base Project
-[![Build Status](https://travis-ci.org/xinhui408/BaseProject.svg?branch=master)](https://travis-ci.org/xinhui408/BaseProject)
-[![codecov](https://codecov.io/gh/xinhui408/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/xinhui408/BaseProject)
+[![Build Status](https://travis-ci.org/berry1233/BaseProject.svg?branch=master)](https://travis-ci.org/berry1233/BaseProject)
+[![codecov](https://codecov.io/gh/berry1233/BaseProject/branch/master/graph/badge.svg)](https://codecov.io/gh/berry1233/BaseProject)
 
 ## Structure
 ```
